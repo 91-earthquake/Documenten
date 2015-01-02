@@ -1,0 +1,21 @@
+Uitwerking programma's robot:
+
+
+Situatie:
+
+Robot staat boven op de ramp. Doel is om vanaf de ramp naar beneden te gaan. Dit levert 20 punten op.
+
+We laten de robot meten hoe schuin hij staat. Dan gaat hij rijden. Ondertussen blijft hij meten. Aan de hand van de metingen moet de robot opmaken of hij schuin of recht staat. Eerst zal hij meten dat hij recht staat. Hij rijdt dan naar voren, totdat hij meet dat hij schuin gaat staan. In principe blijft de robot dan doorrijden. Op een gegeven moment meet de robot dat hij weer recht staat en dus op de grond staat.
+
+
+Hierna nemen we de rolling goal van 30 cm weer mee naar/op de ramp. Deze laten we hier staan tot het einde van de ronde. 
+
+Als het goed is, zijn hierna de 30 seconden om en begint het zelfbesturingsgedeelte.
+
+In deze tijd (90s) kunnen we de ballen op het speelveld proberen te krijgen, als dit al niet gedaan is door een ander team. Lukt dit niet, dan kunnen we onze eigen balletjes in de rolling goal van 60 cm doen. Mocht het hierna nog niet gelukt zijn om de overige ballen los te krijgen, dan plaatsen we de rolling goal van 60 cm in een Alliance's Parking Field inclusief de robot. Wel geheel hierop staan, dit levert namelijk meer punten op.
+
+Totaal aantal punten als alles lukt: 20+20+12+30+30+30=142 
+Totaal aantal punten zonder balletjes uit het Center Goal: 20+20+30+30+12=112
+
+
+Moet nog afgemaakt worden en dit alles geldt enkel als alles werkt.
