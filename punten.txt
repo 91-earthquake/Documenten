@@ -1,0 +1,40 @@
+FTC punten
+
+Autonome periode (30s)
+
+Haalbaar:
+-20 punten voor als de robot die op het platform begon op het speelveld komt
+-20 punten voor als de robot een rolling goal in de parking zone (gebied beneden op het speelveld) krijgt
+
+Wat misschien gaat werken:
+-30 punten voor als de robot de staaf bij de kickstand weghaalt
+-30 punten voor als de robot een bal in een roaling goal krijgt. Dit gaat per buis, niet per bal
+
+Zeer lastig, wellicht haalbaar:
+-60 punten voor als de robot een bal in het center goal krijgt
+
+
+
+
+
+Bestuurbare periode (90s):
+Enkel ballen in roaling goals krijgen. Gaat per cm
+
+-in 30 cm, 1 punt per cm. Maximum aantal punten is 27
+-in 60 cm, 2 punten per cm. Maximum aantal punten is 114. Voor het huidige systeem is de buis van 60 cm het meest handig. Kan natuurlijk uitgebreid worden 
+-in 90 cm, 3 punten per cm. Maximum aantal punten is 261
+
+
+
+
+
+
+End Game (30s):
+Tijdens de end game mogen er nog ballen in roaling goals worden gedaan, maar dit is niet verplicht
+
+-10 punten voor elke robot in een Alliance's Parking Zone
+-10 punten voor elke rolling goal in een Alliance's Parking Zone
+-30 punten voor elke robot die geheel van het Playing Field af is. Dat wil zeggen op een verhoging of geheel in de Alliance's Parking Zone
+-30 punten voor elke rolling goal die geheel van het Playing Field af is
+-6 punten per cm voor ballen die in het Center Goal zitten
+
