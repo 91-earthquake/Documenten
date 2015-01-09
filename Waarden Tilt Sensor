@@ -1,0 +1,32 @@
+Dit zijn de waarden die gemeten zijn met de tilt sensor. 
+Het is eerder een waardegebied waarmee we grenzen aan onze robot kunnen zetten 
+(denk aan: als deze waarde wordt uitgelezen, dan moet de robot het volgende doen)
+
+Waarde bovenop ramp:
+
+x = -55/-54
+y = 6/7
+z = 196/200 
+
+Waarde vlak voor helling
+
+x = min. -52 max -62
+y = min. -3  max -13
+z = min. 164 zodra de robot de grond raakt een dieptepunt van 118
+
+
+
+
+x-as heeft als waarden op de helling -107/-93/-104/-102 tot -44/-41/-39/-36 afwijking als de grond geraakt wordt is -100 bij een vermogen van -30 
+
+y-as heeft als waarden op de helling max. 18/34/21/22 en min 6/7/3/0. Waarde komt bij 26 als de grond geraakt wordt.
+
+z-as heeft als waarden op de helling max. 194/205/205/243/210 en min 170/169/157/163. Waarde komt bij 212 als de grond geraakt wordt.
+
+
+x-as gemiddeld: maximum 101,5. Wordt weergegeven als 102? Minimum   37,5. Wordt weergegeven als 38?
+
+y-as gemiddeld: maximum 23,75. Wordt weergegeven als 24?  Minimum      4. 
+
+z-as gemiddeld: maximum 211,4. Wordt weergegeven als 212? Minimum 164,75. Wordt weergegeven als 165?
+
